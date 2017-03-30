@@ -10,6 +10,10 @@ React Router Tutorial
 2. 摸索如何使用github进行协作
 3. 练习Markdown写作
 
+这里是master分支，翻译在ch分支上，大家记得把翻译好的成果 git push origin ch 上
+
+
+
 Quick lessons for getting up-to-speed with React Router.
 
 See [Lesson 1 - Setting Up](/lessons/01-setting-up/) to get started.
