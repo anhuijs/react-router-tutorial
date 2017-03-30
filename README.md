@@ -10,6 +10,8 @@ React Router 教程
 2. 摸索如何使用github进行协作
 3. 练习Markdown写作
 
+这里是中文版，大家在这里进行翻译，积少成多，聚沙成塔！
+
 React Router 快速课程。
 
 从[课程 1 - Setting Up](/lessons/01-setting-up/)开始.
