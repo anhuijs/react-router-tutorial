@@ -1,4 +1,4 @@
-React Router Tutorial
+React Router 教程
 =====================
 
 写在前面：最近在学习使用react，发现react-router这一方面的中文资料很欠缺。
@@ -12,9 +12,9 @@ React Router Tutorial
 
 React Router 快速课程。
 
-See [Lesson 1 - Setting Up](/lessons/01-setting-up/) to get started.
+从[课程 1 - Setting Up](/lessons/01-setting-up/)开始.
 
-Each lesson is a fully runnable app with all code from the previous lesson, so you can `cd lessons/<lesson-folder>`, npm install,
+每一个课程都是一个可以运行的程序，并且代码都来自于它之前的课程，你可以进入课程文件夹 `cd lessons/<lesson-folder>`， 运行 npm install，
 and then run the appropriate NPM scripts for each lesson from within the lesson folder.
 
 Missing stuff that will come eventually, hopefully ... maybe.
