@@ -17,12 +17,12 @@ React Router 快速课程。
 从[课程 1 - Setting Up](/lessons/01-setting-up/)开始.
 
 每一个课程都是一个可以运行的程序，并且代码都来自于它之前的课程，你可以进入课程文件夹 `cd lessons/<lesson-folder>`， 运行 npm install，
-and then run the appropriate NPM scripts for each lesson from within the lesson folder.
+然后从课程文件夹内的每个课程运行相应的NPM脚本。
 
-Missing stuff that will come eventually, hopefully ... maybe.
+缺失的东西最终都会来到，希望...也许
 
-1. an app that isn't completely pointless
-- egghead.io videos
+1. an app that isn't completely pointless(一个应用程序并不完全没有意义)
+- egghead.io videos([视频教程https://egghead.io/](https://egghead.io/))
 - code splitting
 - location state
 - data integration
