@@ -1,15 +1,12 @@
-# Clean URLs with Browser History
+# 使用 Browser History 来简化 URL 地址
 
-The URLs in our app right now are built on a hack: the hash. It's the
-default because it will always work, but there's a better way.
+现在，我们在程序的 URL 地址中使用了一项黑科技：hash。因为它的出色表现，所以成为了默认配置，但其实还有更好的选择。
 
-Modern browsers let JavaScript manipulate the URL without making an http
-request, so we don't need to rely on the hash (`#`) portion of the url
-to do routing, but there's a catch (we'll get to it later).
+现代浏览器允许 JavaScript 在不发起 http 请求的情况下操作 URL 地址，所以我们并不是非要依赖 URL 的 hash (`#`)  部分来进行路由控制，但这里有个陷阱（稍后我们会讲到）。
 
-## Configuring Browser History
+## 配置 Browser History
 
-Open up `index.js` and import `browserHistory` instead of `hashHistory`.
+打开 `index.js` 文件，并且引入 `browserHistory` 模块替代之前的 `hashHistory` 模块。
 
 ```js
 // index.js
@@ -24,7 +21,7 @@ render((
 ), document.getElementById('app'))
 ```
 
-Now go click around and admire your clean URLs.
+现在，浏览一下新的页面，来欣赏一下简洁的 URL 地址。
 
 Oh yeah, the catch. Click on a link and then refresh your browser. What
 happens?

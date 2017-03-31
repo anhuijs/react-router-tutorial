@@ -2,7 +2,7 @@ React Router 教程
 =====================
 
 写在前面：最近在学习使用react，发现react-router这一方面的中文资料很欠缺。
-这是[我](https://github.com/zhangqiangoffice/ "无名大强")从github.com/reactjs 那fork过来的一个关于react-router的教程，觉得写得挺好，想把它翻译成中文，不知可有安徽的小伙伴能与我一同完成这个项目？
+这是[我](https://github.com/zhangqiangoffice/ "无名大强")从github.com/reactjs 那fork过来的一个关于react-router的教程，觉得写得挺好，想把它翻译成中文，不知可有前端的小伙伴能与我一同完成这个项目？
 
 做这个项目的目的：
 
