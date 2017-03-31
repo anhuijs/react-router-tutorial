@@ -222,4 +222,4 @@ dropping you off at the bleeding edge.
 
 ---
 
-[Next: What's Next?](../14-whats-next/)
+[接下来: What's Next?](../14-whats-next/)

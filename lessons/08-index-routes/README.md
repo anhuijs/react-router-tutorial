@@ -84,4 +84,4 @@ an index route if a route's path matches exactly.
 
 ---
 
-[Next: Index Links](../09-index-links/)
+[接下来: Index Links](../09-index-links/)

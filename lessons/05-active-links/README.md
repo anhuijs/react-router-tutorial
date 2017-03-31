@@ -86,4 +86,4 @@ Oh, how beautiful upon the renders is the composability of components.
 
 ---
 
-[Next: Params](../06-params/)
+[接下来: Params](../06-params/)

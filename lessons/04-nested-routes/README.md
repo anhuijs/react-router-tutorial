@@ -123,4 +123,4 @@ Okay, now put it back.
 
 ---
 
-[Next: Active Links](../05-active-links/)
+[接下来: Active Links](../05-active-links/)

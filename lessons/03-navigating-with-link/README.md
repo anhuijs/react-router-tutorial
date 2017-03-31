@@ -31,4 +31,4 @@ forward. It works!
 
 ---
 
-[Next: Nested Routes](../04-nested-routes/)
+[接下来: Nested Routes](../04-nested-routes/)

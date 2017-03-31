@@ -58,4 +58,4 @@ a `NavLink` and it will make its way down to the `Link`:
 
 ---
 
-[Next: Clean URLs](../10-clean-urls/)
+[接下来: Clean URLs](../10-clean-urls/)

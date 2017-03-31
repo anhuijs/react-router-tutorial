@@ -167,4 +167,4 @@ the assets are being served with gzip compression.
 
 ---
 
-[Next: Navigating](../12-navigating/)
+[接下来: Navigating](../12-navigating/)

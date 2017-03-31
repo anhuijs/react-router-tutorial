@@ -54,4 +54,4 @@ both active? When child routes are active, so are the parents.
 
 ---
 
-[Next: Index Routes](../08-index-routes/)
+[接下来: Index Routes](../08-index-routes/)

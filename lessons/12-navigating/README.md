@@ -98,4 +98,4 @@ stub context than singletons.
 
 ---
 
-[Next: Server Rendering](../13-server-rendering/)
+[接下来: Server Rendering](../13-server-rendering/)
