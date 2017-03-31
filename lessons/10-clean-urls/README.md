@@ -23,21 +23,18 @@ render((
 
 现在，浏览一下新的页面，来欣赏一下简洁的 URL 地址。
 
-Oh yeah, the catch. Click on a link and then refresh your browser. What
-happens?
+好了，接下来就发现陷阱了，点击一个连接，并刷新浏览器，看看会发生什么？
 
 ```
 Cannot GET /repos
 ```
 
-## Configuring Your Server
+## 配置你的服务器
 
-Your server needs to deliver your app no matter what URL comes in,
-because your app, in the browser, is manipulating the URL. Our current
-server doesn't know how to handle the URL.
+你的服务器需要做到无论是什么样的 URL 地址来请求，都返回你的程序页面，因为你在浏览器中的程序正在操作 URL 地址。我们现在的服务器不知道该如何处理这些 URL。
 
-The Webpack Dev Server has an option to enable this. Open up
-`package.json` and add `--history-api-fallback`.
+Webpack Dev Server 服务器正好有一项这个功能选项。打开
+`package.json` 文件，并添加一句 `--history-api-fallback` 代码。
 
 ```json
     "start": "webpack-dev-server --inline --content-base . --history-api-fallback"
@@ -56,8 +53,7 @@ starts at a deep path, won't be able to find the files.
 <script src="/bundle.js"></script>
 ```
 
-Stop your server if it's running, then `npm start` again. Look at those
-clean URLs :)
+重启服务器, 并再次运行 `npm start` 。好好欣赏一下这些简洁的 URL 地址吧！ :)
 
 ---
 
